@@ -8,11 +8,11 @@ run
 /babytcache> bash ../../../tools/auto_script.sh --binary ./babytcache --out ./export_chall
 
 [*] IDA : /Applications/IDA Professional 9.0.app/Contents/MacOS/idat64
-[*] BIN : /Users/hongruiyi/Desktop/rev-pwn-agent-self-study/ctf_archive/backdoorctf2019/babytcache/babytcache
-[*] OUT : /Users/hongruiyi/Desktop/rev-pwn-agent-self-study/ctf_archive/backdoorctf2019/babytcache/export_chall
-[*] DB  : /Users/hongruiyi/Desktop/rev-pwn-agent-self-study/ctf_archive/backdoorctf2019/babytcache/export_chall/babytcache.i64
-[*] LOG : /Users/hongruiyi/Desktop/rev-pwn-agent-self-study/ctf_archive/backdoorctf2019/babytcache/export_chall/ida_export.log
-[*] PY  : /Users/hongruiyi/Desktop/rev-pwn-agent-self-study/tools/auto_ida_export.py
+[*] BIN : /Users/xxx/Desktop/rev-pwn-agent-self-study/ctf_archive/backdoorctf2019/babytcache/babytcache
+[*] OUT : /Users/xxx/Desktop/rev-pwn-agent-self-study/ctf_archive/backdoorctf2019/babytcache/export_chall
+[*] DB  : /Users/xxx/Desktop/rev-pwn-agent-self-study/ctf_archive/backdoorctf2019/babytcache/export_chall/babytcache.i64
+[*] LOG : /Users/xxx/Desktop/rev-pwn-agent-self-study/ctf_archive/backdoorctf2019/babytcache/export_chall/ida_export.log
+[*] PY  : /Users/xxx/Desktop/rev-pwn-agent-self-study/tools/auto_ida_export.py
 [*] Running checksec...
 ```
 
