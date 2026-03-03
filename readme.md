@@ -1,3 +1,4 @@
+3-3-2026
 this is a ida script for mac to dump decompile code from idat64
 
 without open ida
